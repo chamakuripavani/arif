@@ -1,3 +1,5 @@
 public class demo3
 {
+int=7;
+static int=10;
 }
